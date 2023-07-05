@@ -19,4 +19,4 @@ run: |
 g++ -o app app.cpp
 
 - name: Запуск теста
-run: bash tests/test_date.sh
+run: bash tests
